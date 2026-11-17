@@ -1,0 +1,6 @@
+print('my daily routine')
+print('9:00-wake up')
+print('9:00-11:00-playing mobile games ')
+print('11:00-12:00-advanced science ')
+print('12:00-1:00-tv tmkoc')
+print('1:00-3:00-phone Monopoly,Shasn,Chess,Family game ')
